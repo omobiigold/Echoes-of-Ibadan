@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes spin-slow {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.animate-spin-slow {
+  animation: spin-slow 20s linear infinite;
+}
+
+/* Prose Styles */
+.prose h1, .prose h2, .prose h3 {
+  color: #064635;
+  font-weight: bold;
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+
+.prose p {
+  color: #374151;
+  margin-bottom: 1.5em;
+  line-height: 1.8;
+}
+
+.prose strong {
+  color: #064635;
+  font-weight: 600;
+}

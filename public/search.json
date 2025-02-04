@@ -1,0 +1,49 @@
+{
+  "publications": [
+    {
+      "id": 1,
+      "title": "The Founding of Ibadan: A Historical Perspective",
+      "category": "foundational-histories",
+      "abstract": "This publication explores the origins of Ibadan, focusing on its transformation from a war camp into a thriving city. It highlights Lagelu's pivotal leadership and the settlement patterns that defined its early history.",
+      "date": "1820s",
+      "keywords": ["Lagelu", "settlement", "founding", "war camp", "origins"],
+      "content": "A brief account of Ibadan's founding in the 1820s and its significance in Yoruba history. Examines the role of Lagelu in establishing Ibadan as a refuge and center of governance. Describes how Ibadan evolved into a trade and governance hub."
+    },
+    {
+      "id": 2,
+      "title": "The Olubadan-in-Council: A Unique Leadership Structure",
+      "category": "governance",
+      "abstract": "This publication delves into Ibadan's unique governance system, focusing on the non-hereditary ascension of the Olubadan. It examines the role of chiefs and the council in maintaining peace and progress.",
+      "date": "Present Day",
+      "keywords": ["Olubadan", "chiefs", "governance", "leadership", "council"],
+      "content": "The history and significance of Ibadan's governance system. Discusses how meritocracy defines the Olubadan succession. Explains the Olubadan-in-Council's duties and its influence on Ibadan's development."
+    },
+    {
+      "id": 3,
+      "title": "Egungun Festival: Preserving Yoruba Identity in Ibadan",
+      "category": "culture",
+      "abstract": "This publication explores the cultural significance of the Egungun Festival, an iconic Yoruba tradition celebrated in Ibadan. It emphasizes the festival's role in preserving ancestral heritage and community cohesion.",
+      "date": "Annual",
+      "keywords": ["Egungun", "festival", "culture", "tradition", "heritage"],
+      "content": "Overview of the Egungun Festival and its Yoruba roots. Explains how the festival celebrates ancestors and unites the community. Describes how the festival has evolved while retaining its traditional essence."
+    },
+    {
+      "id": 4,
+      "title": "Ibadan's Transformation into a Metropolitan Hub",
+      "category": "urbanization",
+      "abstract": "This publication examines Ibadan's urban growth, from its early development as a strategic settlement to its rise as one of Nigeria's largest cities.",
+      "date": "1820-Present",
+      "keywords": ["urbanization", "development", "growth", "metropolitan", "city planning"],
+      "content": "Ibadan's strategic location and its role in trade and governance. Highlights the milestones in Ibadan's expansion and infrastructure development. Discusses urbanization issues and sustainable development goals."
+    },
+    {
+      "id": 5,
+      "title": "The Ibadan-Ijaye War: Shaping Yoruba Power Dynamics",
+      "category": "conflicts",
+      "abstract": "This publication provides a historical analysis of the Ibadan-Ijaye War, focusing on its causes, outcomes, and long-term effects on Yoruba political history.",
+      "date": "1860-1862",
+      "keywords": ["war", "conflict", "Ijaye", "power", "politics"],
+      "content": "Background on the conflict between Ibadan and Ijaye. Describes how the war solidified Ibadan's dominance in the region. Examines the cultural and political repercussions of the conflict."
+    }
+  ]
+}
